@@ -1,0 +1,24 @@
+[submodule "llama-cookbook"]
+	path = llama-cookbook
+	url = https://github.com/meta-llama/llama-cookbook.git
+[submodule "Contrastive-Learning-NLP-Papers"]
+	path = Contrastive-Learning-NLP-Papers
+	url = https://github.com/ryanzhumich/Contrastive-Learning-NLP-Papers.git
+[submodule "datacurator-filetree"]
+	path = datacurator-filetree
+	url = https://github.com/roboyoshi/datacurator-filetree.git
+[submodule "NER-datasets"]
+	path = NER-datasets
+	url = https://github.com/davidsbatista/NER-datasets.git
+[submodule "hover"]
+	path = hover
+	url = https://github.com/phurwicz/hover.git
+[submodule "ISLR-python"]
+	path = ISLR-python
+	url = https://github.com/JWarmenhoven/ISLR-python.git
+[submodule "smol-course"]
+	path = smol-course
+	url = https://github.com/huggingface/smol-course.git
+[submodule "Lbl2Vec"]
+	path = Lbl2Vec
+	url = https://github.com/sebischair/Lbl2Vec.git
