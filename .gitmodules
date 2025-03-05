@@ -22,3 +22,18 @@
 [submodule "Lbl2Vec"]
 	path = Lbl2Vec
 	url = https://github.com/sebischair/Lbl2Vec.git
+[submodule "handson-ml3"]
+	path = handson-ml3
+	url = https://github.com/ageron/handson-ml3.git
+[submodule "handson-ml2"]
+	path = handson-ml2
+	url = https://github.com/ageron/handson-ml2.git
+[submodule "lener-br"]
+	path = lener-br
+	url = https://github.com/peluz/lener-br.git
+[submodule "nlp-with-transformers-notebooks"]
+	path = nlp-with-transformers-notebooks
+	url = https://github.com/nlp-with-transformers/notebooks.git
+[submodule "pytorch-deep-learning"]
+	path = pytorch-deep-learning
+	url = https://github.com/mrdbourke/pytorch-deep-learning.git
