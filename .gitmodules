@@ -37,3 +37,6 @@
 [submodule "pytorch-deep-learning"]
 	path = pytorch-deep-learning
 	url = https://github.com/mrdbourke/pytorch-deep-learning.git
+[submodule "Hands-On-Large-Language-Models"]
+	path = Hands-On-Large-Language-Models
+	url = https://github.com/HandsOnLLM/Hands-On-Large-Language-Models.git
